@@ -1,2 +1,2 @@
-# aetherspriteee.github.io
+# aetherspritee.github.io
 muh site
