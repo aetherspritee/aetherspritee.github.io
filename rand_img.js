@@ -3,7 +3,7 @@ function randomNumber(min, max) {
 }
 
 function getRandomImage() {
-    path = '/home/yulivee/Dropbox/Wallpapers/IMG_'
+    path = 'img/IMG_'
     var num = randomNumber(1000, 1015);
     var img = path + num + '.JPG';
     return img;
