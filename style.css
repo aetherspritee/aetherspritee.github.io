@@ -5,7 +5,7 @@ body {
   max-width: 900px;
   line-height: 1.5;
   font-size: 13.5pt;
-  background: linear-gradient( rgba(0,0,0,.5), rgba(0,0,0,.5) ),url("https://i.pinimg.com/originals/d5/25/2b/d5252b28415827d3ec04e7698bd8bb88.jpg") no-repeat center center fixed;
+  background: linear-gradient( rgba(0,0,0,.5), rgba(0,0,0,.5) ),url("background.jpg") no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
