@@ -2,7 +2,7 @@ body {
   font-family: "Poppins";
   align: center;
   margin: 20px auto;
-  max-width: 900px;
+  max-width: 2000px;
   line-height: 1.5;
   font-size: 13.5pt;
   background: linear-gradient( rgba(0,0,0,.5), rgba(0,0,0,.5) ),url("background.jpg") no-repeat center center fixed;
